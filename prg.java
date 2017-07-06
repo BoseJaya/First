@@ -250,6 +250,7 @@ public void actionPerformed(ActionEvent e)
         }
     }
 }
+//this is the main function that i'm taliking about!
 public static void main(String args[])
 {
 new puzzle();
