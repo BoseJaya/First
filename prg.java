@@ -1,3 +1,5 @@
+//A simple 4X4 puzzle game.
+
 import java.awt.;
 import javax.swing.;
 import java.awt.event.*;
